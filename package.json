@@ -1,0 +1,19 @@
+{
+  "name": "BSP-Dungeon-Generation-Study",
+  "version": "1.0.0",
+  "description": "BSP-Dungeon-Generation-Study",
+  "dependencies": {
+    "browser-sync": "^2.4.1",
+    "browserify": "^9.0.3",
+    "es6ify": "^1.6.0",
+    "gulp": "^3.8.11",
+    "gulp-sourcemaps": "^1.5.1",
+    "random-js": "^1.0.4",
+    "gulp-util": "^3.0.4",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^2.6.2"
+  },
+  "author": "Eduardo Lopes",
+  "license": "GNU"
+}
